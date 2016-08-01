@@ -6,7 +6,7 @@ management:
   security:
     enabled: false # turn off securing the actuator endpoints
 
-logging: # <----New sections below   
+logging: # <----New sections below    
   level:
     io:
       pivotal: DEBUG
